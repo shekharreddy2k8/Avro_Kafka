@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO find a way to parameterise assembly with ${env} -->
+<assembly>
+  <id>kafka</id>
+  <formats>
+    <format>zip</format>
+  </formats>
+  <fileSets>
+    <fileSet>
+      <!-- <directory>/</directory> -->
+      <includes>
+        <include>*.properties</include>
+	  <include>*.bat</include>
+	  <include>*.sh</include>
+      </includes>      
+    </fileSet>
+  </fileSets>
+  <dependencySets>
+    <dependencySet>
+      <includes>
+        <include>*:jar</include>
+      </includes>
+    </dependencySet>
+  </dependencySets>  
+</assembly>

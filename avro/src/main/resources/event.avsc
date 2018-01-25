@@ -1,0 +1,42 @@
+{
+"type": "record",
+"name": "event",
+"doc": "event record",
+"fields": [
+{
+"name": "event_id",
+"type": "string"
+},
+{
+"name": "host",
+"type": "string"
+},
+{
+"name": "source_address",
+"type": "string"
+},
+{
+"name": "demo_header",
+"type": ["null","string"]
+},
+{
+"name": "demo_query",
+"type": ["null","string"]
+},
+{
+"name": "collection_time",
+"type": "long"
+},
+{
+"name": "year_attr",
+"type": "string"	
+},
+{
+"name": "month_attr",
+"type": "string"
+},
+{"name": "day_attr",
+"type": "string"	
+}
+]
+}

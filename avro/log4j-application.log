@@ -1,0 +1,979 @@
+2018-01-24 14:52:47 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 14:52:47 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 14:52:47 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 14:52:47 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 14:52:48 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516785717440-45ba60b2-1 for topic test
+2018-01-24 14:52:48 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516785767894-baf5f9d4-0 for topic test
+2018-01-24 14:52:48 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516785767894-baf5f9d4-1 for topic test
+2018-01-24 14:52:51 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516785767894-baf5f9d4-1 for topic test
+2018-01-24 15:27:38 WARN  ProducerConfig:188 - The configuration 'zookeeper.connect' was supplied but isn't a known config.
+2018-01-24 16:05:05 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:05:05 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:05:05 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:05:05 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:05:07 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790106691-847b3d0a-1 for topic test
+2018-01-24 16:07:04 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:07:04 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:07:04 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:07:04 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:07:05 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790225167-b76c0747-1 for topic test
+2018-01-24 16:09:15 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:09:15 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:09:15 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:09:15 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:09:17 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790356560-4df65e9f-1 for topic test
+2018-01-24 16:10:07 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:10:07 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:10:07 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:10:07 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:10:09 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790408606-c07cab15-1 for topic test
+2018-01-24 16:11:29 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:11:29 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:11:29 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:11:29 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:11:30 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790490005-867903fd-1 for topic test
+2018-01-24 16:12:29 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:12:29 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:12:29 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:12:29 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:12:30 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790550071-2d8cd1cc-1 for topic test
+2018-01-24 16:15:33 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:15:33 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:15:33 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:15:33 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790550071-2d8cd1cc-1 for topic test
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790734095-8c31a337-0 for topic test
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790734095-8c31a337-1 for topic test
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790550071-2d8cd1cc-1 for topic test
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790734095-8c31a337-0 for topic test
+2018-01-24 16:15:34 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790734095-8c31a337-1 for topic test
+2018-01-24 16:15:55 WARN  ConsumerFetcherThread:91 - [ConsumerFetcherThread-test-group_INBANN0H328806-1516790550071-2d8cd1cc-0-0], Error in fetch kafka.consumer.ConsumerFetcherThread$FetchRequest@58ab30ff
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.consumer.SimpleConsumer.liftedTree1$1(SimpleConsumer.scala:98)
+	at kafka.consumer.SimpleConsumer.kafka$consumer$SimpleConsumer$$sendRequest(SimpleConsumer.scala:83)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(SimpleConsumer.scala:132)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1$$anonfun$apply$mcV$sp$1.apply(SimpleConsumer.scala:132)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1$$anonfun$apply$mcV$sp$1.apply(SimpleConsumer.scala:132)
+	at kafka.metrics.KafkaTimer.time(KafkaTimer.scala:33)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1.apply$mcV$sp(SimpleConsumer.scala:131)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1.apply(SimpleConsumer.scala:131)
+	at kafka.consumer.SimpleConsumer$$anonfun$fetch$1.apply(SimpleConsumer.scala:131)
+	at kafka.metrics.KafkaTimer.time(KafkaTimer.scala:33)
+	at kafka.consumer.SimpleConsumer.fetch(SimpleConsumer.scala:130)
+	at kafka.consumer.ConsumerFetcherThread.fetch(ConsumerFetcherThread.scala:109)
+	at kafka.consumer.ConsumerFetcherThread.fetch(ConsumerFetcherThread.scala:29)
+	at kafka.server.AbstractFetcherThread.processFetchRequest(AbstractFetcherThread.scala:118)
+	at kafka.server.AbstractFetcherThread.doWork(AbstractFetcherThread.scala:103)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:03 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790734095-8c31a337-1 for topic test
+2018-01-24 16:16:04 WARN  ClientUtils$:91 - Fetching topic metadata with correlation id 0 for topics [Set(test)] from broker [BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:04 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer(BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092))] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	... 3 more
+2018-01-24 16:16:05 WARN  ClientUtils$:91 - Fetching topic metadata with correlation id 1 for topics [Set(test)] from broker [BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:05 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer(BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092))] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	... 3 more
+2018-01-24 16:16:07 WARN  ClientUtils$:91 - Fetching topic metadata with correlation id 2 for topics [Set(test)] from broker [BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:07 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer(BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092))] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	... 3 more
+2018-01-24 16:16:08 WARN  ClientUtils$:91 - Fetching topic metadata with correlation id 3 for topics [Set(test)] from broker [BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:08 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer(BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092))] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	... 3 more
+2018-01-24 16:16:09 WARN  ClientUtils$:91 - Fetching topic metadata with correlation id 4 for topics [Set(test)] from broker [BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:09 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer(BrokerEndPoint(0,INBANN0H328806.nsn-intra.net,9092))] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+Caused by: java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	... 3 more
+2018-01-24 16:16:09 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:09 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:10 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:10 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:10 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:10 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:11 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:11 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:11 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:11 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:11 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:12 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:12 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:12 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:12 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:12 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:13 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:13 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:13 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:13 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:13 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:14 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:14 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:15 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:15 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:15 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:16 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:17 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:17 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:17 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:17 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:18 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:18 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:18 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:18 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:18 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:19 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:19 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:19 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:19 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:19 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:20 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:20 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:20 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:20 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:20 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:21 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:21 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:21 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:21 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:21 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:22 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:22 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:22 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:22 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:22 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:23 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:23 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:23 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:23 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:23 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:24 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:24 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:24 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:24 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:24 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:25 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:25 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:25 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:25 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:25 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:26 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:26 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:26 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:26 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:27 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:27 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:27 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:27 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:27 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:28 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:28 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:28 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:28 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:28 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:29 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:29 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:29 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:29 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:29 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:30 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:30 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:30 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:30 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:30 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:31 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:31 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:31 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:31 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:31 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:32 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:32 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:32 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:32 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:32 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:33 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:33 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:33 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:33 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:34 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:34 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:34 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:34 WARN  ConsumerFetcherManager$LeaderFinderThread:91 - [test-group_INBANN0H328806-1516790734095-8c31a337-leader-finder-thread], Failed to find leader for Set(test-0)
+kafka.common.KafkaException: fetching topic metadata for topics [Set(test)] from broker [ArrayBuffer()] failed
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:73)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:94)
+	at kafka.consumer.ConsumerFetcherManager$LeaderFinderThread.doWork(ConsumerFetcherManager.scala:65)
+	at kafka.utils.ShutdownableThread.run(ShutdownableThread.scala:63)
+2018-01-24 16:16:36 ERROR ConsumerFetcherThread:99 - [ConsumerFetcherThread-test-group_INBANN0H328806-1516790734095-8c31a337-0-0], Error for partition [test,0] to broker 0:kafka.common.NotLeaderForPartitionException
+2018-01-24 16:16:36 ERROR ConsumerFetcherThread:99 - [ConsumerFetcherThread-test-group_INBANN0H328806-1516790734095-8c31a337-0-0], Error for partition [test,0] to broker 0:kafka.common.NotLeaderForPartitionException
+2018-01-24 16:17:11 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:17:11 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:17:11 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:17:11 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:17:12 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790832108-4f0aee37-1 for topic test
+2018-01-24 16:17:31 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:17:31 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:17:31 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:17:31 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:17:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790832108-4f0aee37-1 for topic test
+2018-01-24 16:17:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790852300-1553b449-0 for topic test
+2018-01-24 16:17:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790852300-1553b449-1 for topic test
+2018-01-24 16:17:33 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790852300-1553b449-1 for topic test
+2018-01-24 16:18:56 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:18:56 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:18:56 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:18:56 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:18:57 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516790937029-5d59f57a-1 for topic test
+2018-01-24 16:22:24 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:22:24 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:22:24 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:22:24 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:22:26 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791145456-30328b3c-1 for topic test
+2018-01-24 16:23:56 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:23:56 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:23:56 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:23:56 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:23:57 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791145456-30328b3c-1 for topic test
+2018-01-24 16:23:57 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791236818-f2429755-0 for topic test
+2018-01-24 16:23:57 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791236818-f2429755-1 for topic test
+2018-01-24 16:24:00 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791236818-f2429755-1 for topic test
+2018-01-24 16:24:45 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:24:45 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:24:45 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:24:45 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:24:46 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791285831-1cb22875-1 for topic test
+2018-01-24 16:25:06 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:25:06 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:25:06 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:25:06 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:25:08 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791307890-7031841f-1 for topic test
+2018-01-24 16:34:30 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:34:30 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:34:30 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:34:30 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:34:31 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516791871293-1c00daaf-1 for topic test
+2018-01-24 16:37:27 WARN  NetworkClient:600 - Error while fetching metadata with correlation id 0 : {test=LEADER_NOT_AVAILABLE}
+2018-01-24 16:37:27 WARN  NetworkClient:600 - Error while fetching metadata with correlation id 1 : {test=LEADER_NOT_AVAILABLE}
+2018-01-24 16:37:27 WARN  NetworkClient:600 - Error while fetching metadata with correlation id 2 : {test=LEADER_NOT_AVAILABLE}
+2018-01-24 16:42:39 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:42:39 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:42:39 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:42:39 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:42:40 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792360174-49e681da-1 for topic test
+2018-01-24 16:43:30 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:43:30 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:43:30 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:43:30 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:43:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792360174-49e681da-1 for topic test
+2018-01-24 16:43:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792411900-e4362735-0 for topic test
+2018-01-24 16:43:32 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792411900-e4362735-1 for topic test
+2018-01-24 16:43:33 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792360174-49e681da-1 for topic test
+2018-01-24 16:43:33 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792411900-e4362735-0 for topic test
+2018-01-24 16:43:33 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792411900-e4362735-1 for topic test
+2018-01-24 16:44:17 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:44:17 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:44:17 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:44:17 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:44:19 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792458767-cd1384d1-1 for topic test
+2018-01-24 16:53:10 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:53:10 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:53:10 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:53:10 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:53:12 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792991826-d8a08646-1 for topic test
+2018-01-24 16:55:41 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:55:41 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:55:41 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:55:41 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792991826-d8a08646-1 for topic test
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793142521-8c863e4d-0 for topic test
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793142521-8c863e4d-1 for topic test
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792991826-d8a08646-1 for topic test
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793142521-8c863e4d-0 for topic test
+2018-01-24 16:55:43 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793142521-8c863e4d-1 for topic test
+2018-01-24 16:56:24 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516792991826-d8a08646-1 for topic test
+2018-01-24 16:56:39 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:56:39 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:56:39 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:56:39 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:56:40 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793199871-18739b2b-1 for topic test
+2018-01-24 16:57:43 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:57:43 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:57:43 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:57:43 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:57:45 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793264640-74b53841-1 for topic test
+2018-01-24 16:58:47 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 16:58:47 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 16:58:47 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 16:58:47 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 16:58:48 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516793328492-78bbcb66-1 for topic test
+2018-01-24 17:37:24 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 17:37:24 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 17:37:24 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 17:37:24 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 17:37:26 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516795645400-efb1e2d2-1 for topic test
+2018-01-24 17:42:57 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 17:42:57 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 17:42:57 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 17:42:57 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 17:42:58 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516795977937-5fac091b-1 for topic test
+2018-01-24 17:49:58 WARN  VerifiableProperties:85 - Property bootstrap.servers is not valid
+2018-01-24 17:49:58 WARN  VerifiableProperties:85 - Property enable.auto.commit is not valid
+2018-01-24 17:49:58 WARN  VerifiableProperties:85 - Property key.deserializer is not valid
+2018-01-24 17:49:58 WARN  VerifiableProperties:85 - Property value.deserializer is not valid
+2018-01-24 17:49:59 WARN  RangeAssignor:85 - No broker partitions consumed by consumer thread test-group_INBANN0H328806-1516796399329-875ee015-1 for topic test
